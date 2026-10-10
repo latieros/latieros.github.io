@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f8df5"/><stop offset="1" stop-color="#1557c0"/></linearGradient></defs>
+  <rect width="64" height="64" fill="url(#bg)"/>
+  <path d="M12 26c0-9 9-15 20-15s20 6 20 15-9 15-20 15c-2 0-4-.2-5.8-.6L17 46l1.6-8.2C14.5 35 12 31 12 26Z" fill="#fff"/>
+  <path d="M15 19c3-6 10-9 17-9 4 0 7.5.8 10.5 2.2" fill="none" stroke="#e8f1ff" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <circle cx="25.5" cy="27" r="2.4" fill="#1b2a44"/><circle cx="38.5" cy="27" r="2.4" fill="#1b2a44"/>
+  <circle cx="24.5" cy="26.2" r=".8" fill="#fff"/><circle cx="37.5" cy="26.2" r=".8" fill="#fff"/>
+  <path d="M28.5 32.5q3.5 3 7 0" fill="none" stroke="#1b2a44" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="21" cy="31" r="2" fill="#ffb3c6" opacity=".9"/><circle cx="43" cy="31" r="2" fill="#ffb3c6" opacity=".9"/>
+  <text x="32" y="57" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="9" fill="#fff" letter-spacing="1">BLABLA</text>
+</svg>
