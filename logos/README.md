@@ -7,6 +7,7 @@ Drop your logo images in this folder. The home page looks for these file names:
 | HSR Chat | `hsr-chat.svg` |
 | ZZZ Chat | `zzz-chat.svg` |
 | Nikke Chat | `nikke-chat.svg` |
+| MomoTalk IM | `momotalk-im.svg` |
 | Persona IM | `persona-im.svg` |
 | Chat Reel | `chat-reel.png` |
 | GBF Story Maker | `gbf-story-maker.svg` |
