@@ -1,8 +1,8 @@
 # Lop's Content Tools
 
-The home page for all my browser tools, served by GitHub Pages at https://lopxfi.github.io/.
+The home page for all my browser tools, served by GitHub Pages at https://latieros.github.io/.
 Each tool lives in its own repo and is served under its own path (for example
-https://lopxfi.github.io/HSR-Chat/).
+https://latieros.github.io/HSR-Chat/).
 
 It's one self-contained `index.html`: no build step, no dependencies.
 
